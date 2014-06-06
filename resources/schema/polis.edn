@@ -1,0 +1,32 @@
+;;person
+
+[{:db/id #db/id [:db.part/db]
+  :db/ident :person/firstName
+  :db/doc "First name of a person."
+  :db/valueType :db.type/string
+  :db/index true
+  :db/cardinality :db.cardinality/one
+  :db.install/_attribute :db.part/db}
+ {:db/id #db/id [:db.part/db]
+  :db/ident :person/lastName
+  :db/doc "Last name of a person."
+  :db/valueType :db.type/string
+  :db/index true
+  :db/cardinality :db.cardinality/one
+  :db.install/_attribute :db.part/db}
+ {:db/id #db/id [:db.part/db]
+  :db/ident :person/birthDate
+  :db/doc "Birth date of a person."
+  :db/valueType :db.type/instant
+  :db/cardinality :db.cardinality/one
+  :db.install/_attribute :db.part/db}]
+
+;;councillor
+
+[{:db/id #db/id [:db.part/db]
+  :db/ident :councillor/id
+  :db/doc "The id of this councillor."
+  :db/valueType :db.type/string
+  :db/unique :db.unique/identity
+  :db/cardinality :db.cardinality/one
+  :db.install/_attribute :db.part/db}]

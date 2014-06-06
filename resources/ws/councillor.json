@@ -1,0 +1,610 @@
+{
+  "title": "lic. iur.",
+  "maritalStatus": "verheiratet",
+  "birthPlace": {
+    "city": "St. Gallen",
+    "canton": "SG"
+  },
+  "active": true,
+  "mandate": "Legislative der Gemeinde St. Gallen: von 1977 bis 1984; Legislative des Kantons: von 1984 bis 1986",
+  "concerns": [
+    {
+      "name": "Paul Grüninger-Stiftung, St. Gallen",
+      "type": "Stift.",
+      "organizationType": "Sr.",
+      "function": "M",
+      "agency": "F"
+    },
+    {
+      "name": "Schweizerischer Gewerkschaftsbund",
+      "type": "Ve.",
+      "organizationType": "V",
+      "function": "P",
+      "agency": "F"
+    }
+  ],
+  "homePlaces": [
+    {
+      "city": "Appenzell",
+      "canton": "AI"
+    }
+  ],
+  "committeeMemberships": [
+    {
+      "committee": {
+        "name": "Kommission für Rechtsfragen NR",
+        "abbreviation": "RK",
+        "council": {
+          "name": "Nationalrat",
+          "abbreviation": "NR",
+          "type": "N",
+          "code": "RAT_1_",
+          "id": 1,
+          "updated": "2010-12-26T13:07:49Z"
+        },
+        "committeeNumber": 12,
+        "code": "KOM_12_",
+        "id": 12,
+        "updated": "2010-12-26T13:06:13Z"
+      },
+      "function": null,
+      "entryDate": "1995-12-04T00:00:00Z",
+      "leavingDate": "1998-03-19T00:00:00Z",
+      "id": 1,
+      "updated": "2010-12-26T13:07:50Z"
+    },
+    {
+      "committee": {
+        "name": "Kommission für soziale Sicherheit und Gesundheit NR",
+        "abbreviation": "SGK",
+        "council": {
+          "name": "Nationalrat",
+          "abbreviation": "NR",
+          "type": "N",
+          "code": "RAT_1_",
+          "id": 1,
+          "updated": "2010-12-26T13:07:49Z"
+        },
+        "committeeNumber": 6,
+        "code": "KOM_6_",
+        "id": 6,
+        "updated": "2010-12-26T13:06:13Z"
+      },
+      "function": "Vizepräsident/in",
+      "entryDate": "1995-12-04T00:00:00Z",
+      "leavingDate": "1997-12-01T00:00:00Z",
+      "id": 2,
+      "updated": "2010-12-26T13:07:50Z"
+    },
+    {
+      "committee": {
+        "name": "Kommission für soziale Sicherheit und Gesundheit NR",
+        "abbreviation": "SGK",
+        "council": {
+          "name": "Nationalrat",
+          "abbreviation": "NR",
+          "type": "N",
+          "code": "RAT_1_",
+          "id": 1,
+          "updated": "2010-12-26T13:07:49Z"
+        },
+        "committeeNumber": 6,
+        "code": "KOM_6_",
+        "id": 6,
+        "updated": "2010-12-26T13:06:13Z"
+      },
+      "function": "Präsident/in",
+      "entryDate": "1997-12-01T00:00:00Z",
+      "leavingDate": "1999-11-30T00:00:00Z",
+      "id": 3,
+      "updated": "2010-12-26T13:07:50Z"
+    },
+    {
+      "committee": {
+        "name": "Kommission für Wirtschaft und Abgaben NR",
+        "abbreviation": "WAK",
+        "council": {
+          "name": "Nationalrat",
+          "abbreviation": "NR",
+          "type": "N",
+          "code": "RAT_1_",
+          "id": 1,
+          "updated": "2010-12-26T13:07:49Z"
+        },
+        "committeeNumber": 10,
+        "code": "KOM_10_",
+        "id": 10,
+        "updated": "2010-12-26T13:06:13Z"
+      },
+      "function": null,
+      "entryDate": "1999-11-30T00:00:00Z",
+      "leavingDate": "1999-12-05T00:00:00Z",
+      "id": 6,
+      "updated": "2010-12-26T13:07:50Z"
+    },
+    {
+      "committee": {
+        "name": "Kommission für soziale Sicherheit und Gesundheit NR",
+        "abbreviation": "SGK",
+        "council": {
+          "name": "Nationalrat",
+          "abbreviation": "NR",
+          "type": "N",
+          "code": "RAT_1_",
+          "id": 1,
+          "updated": "2010-12-26T13:07:49Z"
+        },
+        "committeeNumber": 6,
+        "code": "KOM_6_",
+        "id": 6,
+        "updated": "2010-12-26T13:06:13Z"
+      },
+      "function": null,
+      "entryDate": "2003-12-01T00:00:00Z",
+      "leavingDate": "2007-12-02T00:00:00Z",
+      "id": 8,
+      "updated": "2010-12-26T13:07:50Z"
+    },
+    {
+      "committee": {
+        "name": "Kommission für Wirtschaft und Abgaben NR",
+        "abbreviation": "WAK",
+        "council": {
+          "name": "Nationalrat",
+          "abbreviation": "NR",
+          "type": "N",
+          "code": "RAT_1_",
+          "id": 1,
+          "updated": "2010-12-26T13:07:49Z"
+        },
+        "committeeNumber": 10,
+        "code": "KOM_10_",
+        "id": 10,
+        "updated": "2010-12-26T13:06:13Z"
+      },
+      "function": null,
+      "entryDate": "2003-12-01T00:00:00Z",
+      "leavingDate": "2007-12-02T00:00:00Z",
+      "id": 10,
+      "updated": "2010-12-26T13:07:50Z"
+    },
+    {
+      "committee": {
+        "name": "Kommission für soziale Sicherheit und Gesundheit NR",
+        "abbreviation": "SGK",
+        "council": {
+          "name": "Nationalrat",
+          "abbreviation": "NR",
+          "type": "N",
+          "code": "RAT_1_",
+          "id": 1,
+          "updated": "2010-12-26T13:07:49Z"
+        },
+        "committeeNumber": 6,
+        "code": "KOM_6_",
+        "id": 6,
+        "updated": "2010-12-26T13:06:13Z"
+      },
+      "function": null,
+      "entryDate": "2007-12-03T00:00:00Z",
+      "leavingDate": "2011-12-04T00:00:00Z",
+      "id": 13,
+      "updated": "2011-11-01T08:56:55Z"
+    },
+    {
+      "committee": {
+        "name": "Kommission für Wirtschaft und Abgaben NR",
+        "abbreviation": "WAK",
+        "council": {
+          "name": "Nationalrat",
+          "abbreviation": "NR",
+          "type": "N",
+          "code": "RAT_1_",
+          "id": 1,
+          "updated": "2010-12-26T13:07:49Z"
+        },
+        "committeeNumber": 10,
+        "code": "KOM_10_",
+        "id": 10,
+        "updated": "2010-12-26T13:06:13Z"
+      },
+      "function": null,
+      "entryDate": "2007-12-03T00:00:00Z",
+      "leavingDate": "2011-12-04T00:00:00Z",
+      "id": 14,
+      "updated": "2011-11-01T08:56:55Z"
+    },
+    {
+      "committee": {
+        "name": "Kommission für Verkehr und Fernmeldewesen SR",
+        "abbreviation": "KVF",
+        "council": {
+          "name": "Ständerat",
+          "abbreviation": "SR",
+          "type": "S",
+          "code": "RAT_2_",
+          "id": 2,
+          "updated": "2010-12-26T13:07:49Z"
+        },
+        "committeeNumber": 22,
+        "code": "KOM_22_",
+        "id": 22,
+        "updated": "2010-12-26T13:06:13Z"
+      },
+      "function": null,
+      "entryDate": "2011-12-15T00:00:00Z",
+      "id": 15,
+      "updated": "2011-12-20T09:30:55Z"
+    },
+    {
+      "committee": {
+        "name": "Kommission für soziale Sicherheit und Gesundheit SR",
+        "abbreviation": "SGK",
+        "council": {
+          "name": "Ständerat",
+          "abbreviation": "SR",
+          "type": "S",
+          "code": "RAT_2_",
+          "id": 2,
+          "updated": "2010-12-26T13:07:49Z"
+        },
+        "committeeNumber": 19,
+        "code": "KOM_19_",
+        "id": 19,
+        "updated": "2010-12-26T13:06:13Z"
+      },
+      "function": null,
+      "entryDate": "2011-12-15T00:00:00Z",
+      "id": 17,
+      "updated": "2011-12-20T09:20:44Z"
+    },
+    {
+      "committee": {
+        "name": "Interfraktionelle Arbeitsgruppe für die Vorbereitung der Richterwahlen",
+        "abbreviation": "AGRW",
+        "council": {
+          "name": "Vereinigte Bundesversammlung",
+          "abbreviation": "V",
+          "type": "B",
+          "code": "RAT_3_",
+          "id": 3,
+          "updated": "2010-12-26T13:07:49Z"
+        },
+        "committeeNumber": 36,
+        "code": "KOM_36_",
+        "id": 36,
+        "updated": "2012-03-30T15:56:23Z"
+      },
+      "function": null,
+      "entryDate": "1995-12-04T00:00:00Z",
+      "leavingDate": "1999-11-30T00:00:00Z",
+      "id": 0,
+      "updated": "2010-12-26T13:07:50Z"
+    },
+    {
+      "committee": {
+        "name": "Kommission 98.059-NR",
+        "abbreviation": null,
+        "council": {
+          "name": "Nationalrat",
+          "abbreviation": "NR",
+          "type": "N",
+          "code": "RAT_1_",
+          "id": 1,
+          "updated": "2010-12-26T13:07:49Z"
+        },
+        "committeeNumber": 328,
+        "code": "KOM_328_",
+        "id": 328,
+        "updated": "2012-03-28T15:59:36Z"
+      },
+      "function": null,
+      "entryDate": "1998-10-15T00:00:00Z",
+      "leavingDate": "1999-03-03T00:00:00Z",
+      "id": 4,
+      "updated": "2010-12-26T13:07:50Z"
+    },
+    {
+      "committee": {
+        "name": "Kommission 99.028-NR",
+        "abbreviation": null,
+        "council": {
+          "name": "Nationalrat",
+          "abbreviation": "NR",
+          "type": "N",
+          "code": "RAT_1_",
+          "id": 1,
+          "updated": "2010-12-26T13:07:49Z"
+        },
+        "committeeNumber": 351,
+        "code": "KOM_351_",
+        "id": 351,
+        "updated": "2012-03-28T15:59:50Z"
+      },
+      "function": null,
+      "entryDate": "1999-03-19T00:00:00Z",
+      "leavingDate": "1999-10-08T00:00:00Z",
+      "id": 5,
+      "updated": "2010-12-26T13:07:50Z"
+    },
+    {
+      "committee": {
+        "name": "Spezialkommission NR (03.047)",
+        "abbreviation": "03.047-NR",
+        "council": {
+          "name": "Nationalrat",
+          "abbreviation": "NR",
+          "type": "N",
+          "code": "RAT_1_",
+          "id": 1,
+          "updated": "2010-12-26T13:07:49Z"
+        },
+        "committeeNumber": 545,
+        "code": "KOM_545_",
+        "id": 545,
+        "updated": "2012-03-28T15:52:16Z"
+      },
+      "function": null,
+      "entryDate": "2003-06-24T00:00:00Z",
+      "leavingDate": "2003-11-30T00:00:00Z",
+      "id": 7,
+      "updated": "2010-12-26T13:07:50Z"
+    },
+    {
+      "committee": {
+        "name": "Spezialkommission NR (03.047)",
+        "abbreviation": "03.047-NR",
+        "council": {
+          "name": "Nationalrat",
+          "abbreviation": "NR",
+          "type": "N",
+          "code": "RAT_1_",
+          "id": 1,
+          "updated": "2010-12-26T13:07:49Z"
+        },
+        "committeeNumber": 545,
+        "code": "KOM_545_",
+        "id": 545,
+        "updated": "2012-03-28T15:52:16Z"
+      },
+      "function": null,
+      "entryDate": "2003-12-01T00:00:00Z",
+      "leavingDate": "2003-12-19T00:00:00Z",
+      "id": 9,
+      "updated": "2010-12-26T13:07:50Z"
+    },
+    {
+      "committee": {
+        "name": "Kommission 04.066-NR",
+        "abbreviation": null,
+        "council": {
+          "name": "Nationalrat",
+          "abbreviation": "NR",
+          "type": "N",
+          "code": "RAT_1_",
+          "id": 1,
+          "updated": "2010-12-26T13:07:49Z"
+        },
+        "committeeNumber": 618,
+        "code": "KOM_618_",
+        "id": 618,
+        "updated": "2012-03-28T16:01:37Z"
+      },
+      "function": null,
+      "entryDate": "2004-10-05T00:00:00Z",
+      "leavingDate": "2004-12-17T00:00:00Z",
+      "id": 11,
+      "updated": "2010-12-26T13:07:50Z"
+    },
+    {
+      "committee": {
+        "name": "Kommission 04.067-NR",
+        "abbreviation": null,
+        "council": {
+          "name": "Nationalrat",
+          "abbreviation": "NR",
+          "type": "N",
+          "code": "RAT_1_",
+          "id": 1,
+          "updated": "2010-12-26T13:07:49Z"
+        },
+        "committeeNumber": 619,
+        "code": "KOM_619_",
+        "id": 619,
+        "updated": "2012-03-28T16:01:51Z"
+      },
+      "function": null,
+      "entryDate": "2004-10-05T00:00:00Z",
+      "leavingDate": "2004-12-17T00:00:00Z",
+      "id": 12,
+      "updated": "2010-12-26T13:07:50Z"
+    },
+    {
+      "committee": {
+        "name": "Kommission 12.008-SR",
+        "abbreviation": "12.008-SR",
+        "council": {
+          "name": "Ständerat",
+          "abbreviation": "SR",
+          "type": "S",
+          "code": "RAT_2_",
+          "id": 2,
+          "updated": "2010-12-26T13:07:49Z"
+        },
+        "committeeNumber": 939,
+        "code": "KOM_939_",
+        "id": 939,
+        "updated": "2013-02-05T10:56:05Z"
+      },
+      "function": null,
+      "entryDate": "2011-12-15T00:00:00Z",
+      "leavingDate": "2012-06-15T00:00:00Z",
+      "id": 16,
+      "updated": "2013-02-05T10:56:05Z"
+    }
+  ],
+  "councilMemberships": [
+    {
+      "council": {
+        "name": "Nationalrat",
+        "abbreviation": "NR",
+        "type": "N",
+        "code": "RAT_1_",
+        "id": 1,
+        "updated": "2010-12-26T13:07:49Z"
+      },
+      "canton": "SG",
+      "cantonName": "St. Gallen",
+      "entryDate": "1986-06-02T00:00:00Z",
+      "leavingDate": "1995-12-03T00:00:00Z",
+      "id": 0,
+      "updated": "2010-12-26T13:07:53Z"
+    },
+    {
+      "council": {
+        "name": "Nationalrat",
+        "abbreviation": "NR",
+        "type": "N",
+        "code": "RAT_1_",
+        "id": 1,
+        "updated": "2010-12-26T13:07:49Z"
+      },
+      "canton": "SG",
+      "cantonName": "St. Gallen",
+      "entryDate": "1995-12-04T00:00:00Z",
+      "leavingDate": "1999-12-05T00:00:00Z",
+      "id": 1,
+      "updated": "2012-03-22T12:03:19Z"
+    },
+    {
+      "council": {
+        "name": "Nationalrat",
+        "abbreviation": "NR",
+        "type": "N",
+        "code": "RAT_1_",
+        "id": 1,
+        "updated": "2010-12-26T13:07:49Z"
+      },
+      "canton": "SG",
+      "cantonName": "St. Gallen",
+      "entryDate": "1999-12-06T00:00:00Z",
+      "leavingDate": "2003-11-30T00:00:00Z",
+      "id": 2,
+      "updated": "2012-03-22T12:03:27Z"
+    },
+    {
+      "council": {
+        "name": "Nationalrat",
+        "abbreviation": "NR",
+        "type": "N",
+        "code": "RAT_1_",
+        "id": 1,
+        "updated": "2010-12-26T13:07:49Z"
+      },
+      "canton": "SG",
+      "cantonName": "St. Gallen",
+      "entryDate": "2003-12-01T00:00:00Z",
+      "leavingDate": "2007-12-02T00:00:00Z",
+      "id": 3,
+      "updated": "2012-03-22T12:03:34Z"
+    },
+    {
+      "council": {
+        "name": "Nationalrat",
+        "abbreviation": "NR",
+        "type": "N",
+        "code": "RAT_1_",
+        "id": 1,
+        "updated": "2010-12-26T13:07:49Z"
+      },
+      "canton": "SG",
+      "cantonName": "St. Gallen",
+      "entryDate": "2007-12-03T00:00:00Z",
+      "leavingDate": "2011-12-04T00:00:00Z",
+      "id": 4,
+      "updated": "2012-03-22T12:03:41Z"
+    },
+    {
+      "council": {
+        "name": "Nationalrat",
+        "abbreviation": "NR",
+        "type": "N",
+        "code": "RAT_1_",
+        "id": 1,
+        "updated": "2010-12-26T13:07:49Z"
+      },
+      "canton": "SG",
+      "cantonName": "St. Gallen",
+      "entryDate": "2011-12-05T00:00:00Z",
+      "leavingDate": "2011-12-11T00:00:00Z",
+      "id": 5,
+      "updated": "2012-03-22T12:03:55Z"
+    },
+    {
+      "council": {
+        "name": "Ständerat",
+        "abbreviation": "SR",
+        "type": "S",
+        "code": "RAT_2_",
+        "id": 2,
+        "updated": "2010-12-26T13:07:49Z"
+      },
+      "canton": "SG",
+      "cantonName": "St. Gallen",
+      "entryDate": "2011-12-12T00:00:00Z",
+      "id": 6,
+      "updated": "2011-12-12T08:27:26Z"
+    }
+  ],
+  "officialDenomination": "Rechsteiner Paul",
+  "salutationLetter": "Herr Ständerat",
+  "salutationTitle": null,
+  "code": null,
+  "factionId": 2,
+  "partyId": 12,
+  "gender": "m",
+  "postalAddress": {
+    "addressLine": "Oberer Graben 44",
+    "zip": 9000,
+    "city": "St. Gallen",
+    "canton": "SG"
+  },
+  "domicile": {
+    "addressLine": null,
+    "zip": 0,
+    "city": null,
+    "canton": null
+  },
+  "contact": {
+    "phonePrivate": null,
+    "phoneWork": "+41 71 228 41 11",
+    "phoneMobilePrivate": null,
+    "phoneMobileWork": null,
+    "faxPrivate": null,
+    "faxWork": "+41 71 228 41 12",
+    "emailPrivate": "rechsteiner@anwaelte44.ch",
+    "emailWork": null,
+    "homepagePrivate": null,
+    "homepageWork": null
+  },
+  "professions": [
+    "Rechtsanwalt"
+  ],
+  "birthDate": "1952-08-26T00:00:00Z",
+  "language": "de",
+  "workLanguage": "de",
+  "displayLanguage": "de",
+  "firstName": "Paul",
+  "lastName": "Rechsteiner",
+  "council": "S",
+  "number": 2143,
+  "canton": "St. Gallen",
+  "cantonName": "SG",
+  "party": "SP",
+  "partyName": "Sozialdemokratische Partei der Schweiz",
+  "faction": "S",
+  "factionName": "Sozialdemokratische Fraktion",
+  "function": "Mitglied",
+  "id": 172,
+  "updated": "2012-05-15T10:47:57Z"
+}
