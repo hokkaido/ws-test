@@ -23,13 +23,22 @@
     (d/transact conn txd))
   :done)
 
+(defn- do-tx-helper [conn partition data-seq]
+  (let [data
+        (for [data data-seq]
+          (assoc data :db/id (d/tempid partition)))]
+    @(d/transact conn data)))
+
+(defn transact-polis [conn data-seq]
+  (do-tx-helper conn :db.part/user data-seq))
+
+
 (defn setup-db
   [uri]
   (d/delete-database uri)
   (d/create-database uri)
   (let [conn (d/connect uri)]
     (transact-all conn (io/resource "schema/polis.edn"))))
-
 
 (defn -main
   "I don't do a whole lot ... yet."
@@ -38,7 +47,7 @@
  (setup-db polis-uri)
  (let [conn (d/connect polis-uri)
        councillor (schema/to-schema-coerce (schema/get-councillor 1))]
-  (d/transact conn [councillor] )
+  (transact-polis conn [councillor] )
   (pprint/pprint (d/q '[:find ?e :where [?e :person/firstName "Paul"]] (d/db conn)))))
 
 

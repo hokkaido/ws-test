@@ -14,7 +14,7 @@
 
 (defn parse-date
   [s]
-  (f/parse (f/formatters :date-time-no-ms ) s))
+  (.toDate (f/parse (f/formatters :date-time-no-ms ) s)))
 
 (def councillor-coercions
   {:person/birthDate #(parse-date %)})
