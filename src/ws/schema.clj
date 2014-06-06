@@ -1,7 +1,10 @@
 (ns ws.schema
   (:require
     [clj-time.format :as f]
-    [cheshire.core :refer :all]))
+    [cheshire.core :refer :all]
+    [datomic.api :as d]))
+
+
 
 (def councillor-datomic-map 
   {:firstName :person/firstName
