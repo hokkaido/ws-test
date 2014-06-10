@@ -1,0 +1,5 @@
+{:db 
+   {:uri "datomic:mem://polis"
+    :schema "schema/polis.edn"}
+ :parliament 
+   {:crawl-interval 30 }}

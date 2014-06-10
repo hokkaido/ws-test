@@ -1,4 +1,4 @@
-;;person
+;; persons
 
 [{:db/id #db/id [:db.part/db]
   :db/ident :person/firstName
@@ -21,15 +21,41 @@
   :db/cardinality :db.cardinality/one
   :db.install/_attribute :db.part/db}]
 
-;;councillor
+;; councillors
 
 [{:db/id #db/id [:db.part/db]
   :db/ident :councillor/id
-  :db/doc "The id of this councillor."
+  :db/doc "The id of a councillor."
   :db/valueType :db.type/long
   :db/unique :db.unique/identity
   :db/cardinality :db.cardinality/one
   :db.install/_attribute :db.part/db}]
+
+;; councils
+
+[{:db/id #db/id [:db.part/db]
+  :db/ident :council/id
+  :db/doc "The id of a council."
+  :db/valueType :db.type/long
+  :db/unique :db.unique/identity
+  :db/cardinality :db.cardinality/one
+  :db.install/_attribute :db.part/db}
+ {:db/id #db/id [:db.part/db]
+  :db/ident :council/name
+  :db/doc "The name of a council."
+  :db/valueType :db.type/string
+  :db/index true
+  :db/cardinality :db.cardinality/one
+  :db.install/_attribute :db.part/db}
+ {:db/id #db/id [:db.part/db]
+  :db/ident :council/abbr
+  :db/doc "The abbreviation of a council."
+  :db/valueType :db.type/string
+  :db/index true
+  :db/cardinality :db.cardinality/one
+  :db.install/_attribute :db.part/db}]
+
+;; partition
 
 [{:db/id #db/id[:db.part/db -1]
   :db/ident :polis}
